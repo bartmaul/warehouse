@@ -1,0 +1,16 @@
+New log file opened at Mon Apr 18 19:50:09 JST 2016 by 8976@ma-chan
+Taking next connection to: 51762
+New client attempting to connect on port: 51763-51762
+  Address = /192.168.1.22:51762
+This client on port 51763 has uuid 56e64f5b-916a-427d-9e93-12a7d6486aeb configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-56e64f5b-916a-427d-9e93-12a7d6486aeb
+Taking next connection to: 51762
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51762
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 8976@ma-chan logs at Mon Apr 18 19:56:09 JST 2016, goodbye.

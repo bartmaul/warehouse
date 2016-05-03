@@ -1,0 +1,13 @@
+@(message:String)
+@main("Product form") {
+	<h1>Product form</h1>
+	<form action="@routes.Products.save()" method="post">
+		<fieldset>
+			<legend>Product New</legend>
+			<input type="text" name="ean">
+			<input type="text" name="name">
+			<input type="text" name="description">
+			<button>Add product</button>
+		</fieldset>
+	</form>
+}
